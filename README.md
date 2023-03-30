@@ -4,7 +4,7 @@ Hi 👋 My name is ROHITH K
 Web Developer
 -------------
 
-I am a B.tech Student from Calicut, Kerala of India. I've being coding for last 3 years. I came through different stacks such as web, native android, flutter etc. I had done some cool websites and couple of Apps using native android and flutter. I started my coding from web during the starting of Covid-19 for a curiosity, then which lead me to grow a developer and now I am working on AngularJs .
+I am a B.tech Graduate from Calicut, Kerala of India. I've being coding for last 4 years. I came through different stacks such as web, native android, flutter, angular, SQL, Django Python etc. I had done some cool websites and couple of Apps using native android and flutter. I started my coding from web during the starting of Covid-19 for a curiosity, then which lead me to grow as a developer and now I am working on AngularJs .
 
 *   🌍  I'm based in India
 *   ✉️  You can contact me at [rohithk24280@gmail.com](mailto:rohithk24280@gmail.com)
