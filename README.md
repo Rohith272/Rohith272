@@ -1,7 +1,7 @@
 Hi 👋 My name is ROHITH K
 =========================
 
-Web Developer
+Full Stack Developer
 -------------
 
 I am a B.tech Graduate from Calicut, Kerala of India. I've being coding for last 4 years. I came through different stacks such as web, native android, flutter, angular, SQL, Django Python etc. I had done some cool websites and couple of Apps using native android and flutter. I started my coding from web during the starting of Covid-19 for a curiosity, then which lead me to grow as a developer and now I am working on AngularJs .
